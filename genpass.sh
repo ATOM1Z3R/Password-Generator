@@ -1,5 +1,5 @@
 #! /usr/bin/env bash
-# set -e
+set -e
 
 l="qwertyuiopasdfghjklzxcvbnm"
 n="1234567890"
